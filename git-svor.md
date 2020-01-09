@@ -26,3 +26,5 @@
 3. branch í Git er einfaldlega léttur hreyfanlegur bendir á einn af þessum commits.
 
 4. Útgáfustýring gerir þér kleift að stjórna breytingum með tímanum.
+
+5.Einn stærsti kosturinn við Git er branch capabilities
