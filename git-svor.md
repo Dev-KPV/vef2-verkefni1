@@ -28,3 +28,5 @@
 4. Útgáfustýring gerir þér kleift að stjórna breytingum með tímanum.
 
 5.Einn stærsti kosturinn við Git er branch capabilities
+
+6. það á að committa eftir hvert svar en oftast ætti að committa.
