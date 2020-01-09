@@ -18,3 +18,9 @@
    
 3. Svipað og Git log, sýnir data sources sem geta verið commits, branches o.s.fl
 
+# GIT Skipanir 2 
+1. Git log er til að sýna commits og breytur
+
+2. Git checkout er til að færa sig um branches 
+
+3. branch í Git er einfaldlega léttur hreyfanlegur bendir á einn af þessum commits.
