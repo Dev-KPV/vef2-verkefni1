@@ -30,3 +30,6 @@
 5.Einn stærsti kosturinn við Git er branch capabilities
 
 6. það á að committa eftir hvert svar en oftast ætti að committa.
+
+7. Git Working Directory er til dæmis skráin sem þú hefur skoðað branch verkefnisins. Það er yfirleitt mappan sem inniheldur .git möppuna.
+- Staging Area staging er skref áður en commit fer fram í git. Það er, commit í git er framkvæmd í tveimur skrefum: staging og commit. Svo lengi sem changeset er á staging area, þá leyfir git þér að breyta því eins og þú vilt
